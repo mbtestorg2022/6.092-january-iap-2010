@@ -4,12 +4,97 @@ title: Related Resources
 uid: 15c81cee-0fc0-5bfb-1137-b87b66aed50b
 ---
 
-| RESOURCES |
-| --- |
-|  {{< br >}}{{< br >}} [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkapjava/) {{< br >}}{{< br >}} The course approximately follows this book. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Introduction to Programming Using Java, Fifth Edition](http://math.hws.edu/javanotes/) {{< br >}}{{< br >}} Alternative free electronic book. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Alternative free electronic book. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Java Basics](http://www.leepoint.net/JavaBasics/index.html) {{< br >}}{{< br >}} Brief introduction to Java. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Java Notes](http://www.leepoint.net/) {{< br >}}{{< br >}} Brief notes that expand on specific Java features. {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [The Java API](http://java.sun.com/javase/6/docs/api/) {{< br >}}{{< br >}} The one reference you should take away from this course! {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} [Eclipse: Total Beginner Lessons](http://eclipsetutorial.sourceforge.net/totalbeginnerlessons.html) {{< br >}}{{< br >}} Screen casts showing how to use Eclipse for Java development. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+RESOURCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkapjava/)
+
+The course approximately follows this book.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Introduction to Programming Using Java, Fifth Edition](http://math.hws.edu/javanotes/)
+
+Alternative free electronic book.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Alternative free electronic book.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Java Basics](http://www.leepoint.net/JavaBasics/index.html)
+
+Brief introduction to Java.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Java Notes](http://www.leepoint.net/)
+
+Brief notes that expand on specific Java features.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[The Java API](http://java.sun.com/javase/6/docs/api/)
+
+The one reference you should take away from this course!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+[Eclipse: Total Beginner Lessons](http://eclipsetutorial.sourceforge.net/totalbeginnerlessons.html)
+
+Screen casts showing how to use Eclipse for Java development.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
